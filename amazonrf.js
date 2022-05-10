@@ -1,3 +1,4 @@
+// alert("Welcome to the amazon");
 alert("Welcome to the amazon");
 
 $("#thank").click(function(){
